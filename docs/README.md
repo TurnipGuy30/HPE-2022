@@ -1,3 +1,3 @@
-# Alcohol Assignment
+# Alcohol Assignment - John Dieckmann
 
-Test page
+Homepage
