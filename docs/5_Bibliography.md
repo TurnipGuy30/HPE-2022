@@ -2,7 +2,7 @@
 Tab 5: Bibliography (APA referencing)
 -->
 
-[Homepage](README.md) | [Effects](2_Effects.md) | [Rehabilitation](3_Rehabilitation.md) | [Decisions](4_Decisions.md) | Bibliography
+[Homepage](README.md) | [Effects](2_Effects.md) | [Strategies](3_Strategies.md) | [Decisions](4_Decisions.md) | Bibliography
 
 # Bibliography
 
