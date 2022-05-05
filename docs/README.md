@@ -12,7 +12,7 @@ A study in 2015 showed that more than 1 million Australian children's lives were
 
 The Australian Bureau of Statistics released data showing that in 2020, Australian alcohol sales reached a record 15.6 billion dollars.
 
-Alcoholism is becoming more common since it became legal in the United States in 1933, and an increasing number of families are dealing with its consequences.
+Alcoholism is becoming more common since the United States legalised alcohol in 1933, and an increasing number of families are dealing with its consequences.
 
 ---
 

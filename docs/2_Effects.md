@@ -9,4 +9,4 @@ Text
 
 ---
 
-[Next Page - Strategies](3_Strategies.md)
+[Back to Homepage](README.md) | [Next Page - Strategies](3_Strategies.md)

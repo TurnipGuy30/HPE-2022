@@ -10,4 +10,4 @@ Text
 
 ---
 
-[Next Page - Bibliography](5_Bibliography.md)
+[Back to Homepage](README.md) | [Next Page - Bibliography](5_Bibliography.md)
