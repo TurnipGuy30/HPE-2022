@@ -6,7 +6,16 @@
 
 # Rehabilitation Strategies
 
-Text
+### Organisations
+
+There are many organisations dedicated to helping people overcome alcoholism. Here just a few of the addiction treatment facilities available to Australians:
+
+- *[Lives Lived Well](https://www.liveslivedwell.org.au/)*
+- *[Gillies House](http://www.vinnies.org.au/)*
+- *[The Hader Clinic Queensland](https://www.haderclinicqld.com.au/)*
+- *[Teen Challenge Queensland](http://teenchallengeqld.org.au/)*
+- *[The Freedom Room](http://www.thefreedomroom.com.au/)*
+- *[Alcoholics Anonymous](http://aa.org.au/)*
 
 ---
 
