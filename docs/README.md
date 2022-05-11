@@ -1,5 +1,5 @@
 <!--
-Homepage (Tab 1): Introduce your drug or alcohol, and include a summary, relevant statistics, facts, and any other information that will capture the viewer’s attention.
+	Homepage (Tab 1): Introduce your drug or alcohol, and include a summary, relevant statistics, facts, and any other information that will capture the viewer’s attention.
 -->
 
 Homepage | [Effects](2_Effects.md) | [Strategies](3_Strategies.md) | [Decisions](4_Decisions.md) | [Bibliography](5_Bibliography.md)
